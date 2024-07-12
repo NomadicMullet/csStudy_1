@@ -138,6 +138,7 @@
     <ClCompile Include="lecture15.c" />
     <ClCompile Include="lecture16.c" />
     <ClCompile Include="lecture17.c" />
+    <ClCompile Include="lecture18.c" />
     <ClCompile Include="lecture2.c" />
     <ClCompile Include="lecture3.c" />
     <ClCompile Include="lecture4.c" />

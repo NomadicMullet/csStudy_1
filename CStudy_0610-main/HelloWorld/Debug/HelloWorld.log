@@ -1,0 +1,9 @@
+﻿  lecture18.c
+C:\Users\Administrator\Downloads\새 폴더\csStudy_1\CStudy_0610-main\HelloWorld\lectures.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  (소스 파일 'lecture18.c'을(를) 컴파일하는 중)
+  
+C:\Users\Administrator\Downloads\새 폴더\csStudy_1\CStudy_0610-main\HelloWorld\lecture18.c(31,2): warning C4013: 'pirntf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Administrator\Downloads\새 폴더\csStudy_1\CStudy_0610-main\HelloWorld\lecture18.c(16,7): warning C4047: '초기화 중': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+C:\Users\Administrator\Downloads\새 폴더\csStudy_1\CStudy_0610-main\HelloWorld\lecture18.c(17,7): warning C4047: '초기화 중': 'int *'의 간접 참조 수준이 'int'과(와) 다릅니다.
+lecture18.obj : error LNK2019: _pirntf_lecture18 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\Administrator\Downloads\새 폴더\csStudy_1\CStudy_0610-main\HelloWorld\Debug\HelloWorld.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.
