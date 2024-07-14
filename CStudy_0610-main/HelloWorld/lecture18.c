@@ -85,14 +85,22 @@ void lecture18() {
 	//예제2. 포인터 연산의 뺄셈을 써서 배열의 큰 수부터 작은 수를 출력하라
 
 	int secondArr[5] = { 1,2,3,4,5 };
-	int* secondArrPtr = secondArr;
-	for (int i = 0; i < 5; i++) {
-		
+	int* secondArrPtr = secondArr+4;
+
+	for (int i = 5; i > 0; i--) {
+		printf("예제2: %d\n",*secondArrPtr);
+		secondArrPtr= secondArrPtr-1;
 	}
 
 
 	//예제3. 길이가 6인 배열을 선언해서 1,2,3,4,5,6을 6,5,4,3,2,1로 출력하라.
+	int thridArr[6] = { 1,2,3,4,5,6 };
+	int* thridArrPtr = thridArr + 5;
 
+	for (int i = 6; i > 0; i--) {
+		printf("예제3: %d\n",*thridArrPtr);
+		thridArrPtr = thridArrPtr-1;
+	}
 
 
 	//정리
