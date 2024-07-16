@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\CODE_STUDY\\School\\csStudy_1\\CStudy_0610-main\\HelloWorld\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF44C1EF-5C74-42A1-A5FC-C121D63DA5E6}|HelloWorld.vcxproj|C:\\CODE_STUDY\\School\\csStudy_1\\CStudy_0610-main\\HelloWorld\\lecture18.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{FF44C1EF-5C74-42A1-A5FC-C121D63DA5E6}|HelloWorld.vcxproj|solutionrelative:lecture18.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{FF44C1EF-5C74-42A1-A5FC-C121D63DA5E6}|HelloWorld.vcxproj|C:\\CODE_STUDY\\School\\csStudy_1\\CStudy_0610-main\\HelloWorld\\lecture20.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF44C1EF-5C74-42A1-A5FC-C121D63DA5E6}|HelloWorld.vcxproj|solutionrelative:lecture20.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "lecture18.c",
-              "DocumentMoniker": "C:\\CODE_STUDY\\School\\csStudy_1\\CStudy_0610-main\\HelloWorld\\lecture18.c",
-              "RelativeDocumentMoniker": "lecture18.c",
-              "ToolTip": "C:\\CODE_STUDY\\School\\csStudy_1\\CStudy_0610-main\\HelloWorld\\lecture18.c",
-              "RelativeToolTip": "lecture18.c",
-              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGcAAAAAAAAA",
+              "Title": "lecture20.c",
+              "DocumentMoniker": "C:\\CODE_STUDY\\School\\csStudy_1\\CStudy_0610-main\\HelloWorld\\lecture20.c",
+              "RelativeDocumentMoniker": "lecture20.c",
+              "ToolTip": "C:\\CODE_STUDY\\School\\csStudy_1\\CStudy_0610-main\\HelloWorld\\lecture20.c",
+              "RelativeToolTip": "lecture20.c",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACwAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-07-14T08:43:46.293Z",
+              "WhenOpened": "2024-07-16T07:01:51.163Z",
               "EditorCaption": ""
             }
           ]
