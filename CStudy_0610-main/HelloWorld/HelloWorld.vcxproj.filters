@@ -13,7 +13,10 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="소스 파일\강의">
+    <Filter Include="소스 파일\게프2">
+      <UniqueIdentifier>{e9622b07-d08f-4bca-b251-725aa660f782}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\게프1">
       <UniqueIdentifier>{a770170c-0d99-43c2-9328-33c2d46cabdf}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -22,70 +25,73 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="lecture1.c">
-      <Filter>소스 파일\강의</Filter>
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
     <ClCompile Include="lecture2.c">
-      <Filter>소스 파일\강의</Filter>
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
     <ClCompile Include="lecture3.c">
-      <Filter>소스 파일\강의</Filter>
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
     <ClCompile Include="lecture4.c">
-      <Filter>소스 파일\강의</Filter>
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
     <ClCompile Include="lecture5.c">
-      <Filter>소스 파일\강의</Filter>
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
     <ClCompile Include="lecture6.c">
-      <Filter>소스 파일\강의</Filter>
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
     <ClCompile Include="lecture7.c">
-      <Filter>소스 파일\강의</Filter>
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
     <ClCompile Include="lecture8.c">
-      <Filter>소스 파일\강의</Filter>
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
     <ClCompile Include="lecture9.c">
-      <Filter>소스 파일\강의</Filter>
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
     <ClCompile Include="lecture10.c">
-      <Filter>소스 파일\강의</Filter>
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
     <ClCompile Include="lecture11.c">
-      <Filter>소스 파일\강의</Filter>
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
     <ClCompile Include="lecture12.c">
-      <Filter>소스 파일\강의</Filter>
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
     <ClCompile Include="lecture12_3.c">
-      <Filter>소스 파일\강의</Filter>
-    </ClCompile>
-    <ClCompile Include="lecture13.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="lecture13_switch.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="lecture14.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
     <ClCompile Include="lecture15.c">
-      <Filter>소스 파일\강의</Filter>
-    </ClCompile>
-    <ClCompile Include="lecture16.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
     <ClCompile Include="lecture17.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\게프2</Filter>
     </ClCompile>
     <ClCompile Include="lecture18.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\게프2</Filter>
     </ClCompile>
     <ClCompile Include="lecture19.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\게프2</Filter>
     </ClCompile>
     <ClCompile Include="lecture20.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\게프2</Filter>
+    </ClCompile>
+    <ClCompile Include="lecture21.c">
+      <Filter>소스 파일\게프2</Filter>
+    </ClCompile>
+    <ClCompile Include="lecture13.c">
+      <Filter>소스 파일\게프1</Filter>
+    </ClCompile>
+    <ClCompile Include="lecture13_switch.c">
+      <Filter>소스 파일\게프1</Filter>
+    </ClCompile>
+    <ClCompile Include="lecture14.c">
+      <Filter>소스 파일\게프1</Filter>
+    </ClCompile>
+    <ClCompile Include="lecture16.c">
+      <Filter>소스 파일\게프1</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
