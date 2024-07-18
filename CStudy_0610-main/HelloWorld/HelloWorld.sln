@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyGame", "..\MyGame\MyGame.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Avoid_Star", "..\Avoid_Star\Avoid_Star.vcxproj", "{5128A3C7-CCDE-4238-8A56-6C0D36B1F6CF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ConsoleAdventure", "..\ConsoleAdventure\ConsoleAdventure.vcxproj", "{DEE94002-A295-4B4A-9BC5-7F7C79232136}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{5128A3C7-CCDE-4238-8A56-6C0D36B1F6CF}.Release|x64.Build.0 = Release|x64
 		{5128A3C7-CCDE-4238-8A56-6C0D36B1F6CF}.Release|x86.ActiveCfg = Release|Win32
 		{5128A3C7-CCDE-4238-8A56-6C0D36B1F6CF}.Release|x86.Build.0 = Release|Win32
+		{DEE94002-A295-4B4A-9BC5-7F7C79232136}.Debug|x64.ActiveCfg = Debug|x64
+		{DEE94002-A295-4B4A-9BC5-7F7C79232136}.Debug|x64.Build.0 = Debug|x64
+		{DEE94002-A295-4B4A-9BC5-7F7C79232136}.Debug|x86.ActiveCfg = Debug|Win32
+		{DEE94002-A295-4B4A-9BC5-7F7C79232136}.Debug|x86.Build.0 = Debug|Win32
+		{DEE94002-A295-4B4A-9BC5-7F7C79232136}.Release|x64.ActiveCfg = Release|x64
+		{DEE94002-A295-4B4A-9BC5-7F7C79232136}.Release|x64.Build.0 = Release|x64
+		{DEE94002-A295-4B4A-9BC5-7F7C79232136}.Release|x86.ActiveCfg = Release|Win32
+		{DEE94002-A295-4B4A-9BC5-7F7C79232136}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
