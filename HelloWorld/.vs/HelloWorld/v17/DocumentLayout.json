@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CodeStudy\\csStudy_1\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4277653-9758-4F77-AF8B-B386B01C3E76}|..\\ToyProject01\\ToyProject01.vcxproj|C:\\CodeStudy\\csStudy_1\\ToyProject01\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE94002-A295-4B4A-9BC5-7F7C79232136}|..\\ConsoleAdventure\\ConsoleAdventure.vcxproj|C:\\CodeStudy\\csStudy_1\\ConsoleAdventure\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\CodeStudy\\csStudy_1\\ToyProject01\\main.c",
+              "RelativeDocumentMoniker": "..\\ToyProject01\\main.c",
+              "ToolTip": "C:\\CodeStudy\\csStudy_1\\ToyProject01\\main.c",
+              "RelativeToolTip": "..\\ToyProject01\\main.c",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-06T07:17:26.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\CodeStudy\\csStudy_1\\ConsoleAdventure\\main.c",
+              "RelativeDocumentMoniker": "..\\ConsoleAdventure\\main.c",
+              "ToolTip": "C:\\CodeStudy\\csStudy_1\\ConsoleAdventure\\main.c",
+              "RelativeToolTip": "..\\ConsoleAdventure\\main.c",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAHAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-08-06T07:02:48.898Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
